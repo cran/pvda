@@ -1,6 +1,6 @@
-39313bca1e8b2da0232034da1ba956dd *DESCRIPTION
+5f758c5d31f4fa3d8f85acbd9d0e43c2 *DESCRIPTION
 5fe11766fac9454a1eb619c4f08b516b *NAMESPACE
-eab7e0d4c756ad9e435a0f91f563adc3 *NEWS.md
+a6b08fd96e2624c86e77b98d573e8824 *NEWS.md
 5195b32281fa917fde61586efbea5061 *R/da_object_oriented_functions.R
 868c7e2094d5fb9e4be95b908deb5b4a *R/drug_event_df.R
 b34a84d1ac177c478932fdde7816b487 *R/higher_level_disprop_analysis.R
@@ -8,8 +8,8 @@ b34a84d1ac177c478932fdde7816b487 *R/higher_level_disprop_analysis.R
 afcad86b15f40b670242977cd298a44b *R/onLoad.R
 f74622f1e904107ada43f7f6de706bef *R/tiny_dataset.R
 801b5462259b1fa46a3eaee30856f7ef *R/write_to_excel.R
-c870acabf9b90bf9442833d0158b6e6a *README.md
-f19369afd753450d8456aad89548636a *build/partial.rdb
+17628f84f512e78878ca3cf241b25001 *README.md
+21b9e619d2de886688d3f6cdca7eb413 *build/partial.rdb
 47b94e3698b6c5bbc220140a12a27990 *build/vignette.rds
 7227bd51a136f4397b71fd5e2c6792d8 *data/drug_event_df.rda
 26ac902bf78e638b282a4e48b81abcb8 *data/tiny_dataset.rda
@@ -46,5 +46,5 @@ ee5b6ca8ef9e67ecfba03d918fc3cfe7 *tests/testthat/test-disprop_analysis.R
 3f16705157c977f98995ed7900ece3c7 *tests/testthat/testthat-problems.rds
 a537444e4792e432a6ca8b0399287292 *vignettes/Disproportionality_analysis.Rmd
 e87ad77758e90156065c625f589c3255 *vignettes/print_console_many_digits.png
-533d42251a423fb748120e04a91dd35d *vignettes/print_console_printout.PNG
+533d42251a423fb748120e04a91dd35d *vignettes/print_console_printout.png
 7918c6804f8dadf29508c684e1a02196 *vignettes/summary_console_printout.png
