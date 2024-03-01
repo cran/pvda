@@ -3,9 +3,9 @@
 An R package for executing disproportionality analyses in pharmacovigilance, using the information component (IC), proportional reporting rate (PRR) and reporting odds ratio (ROR). 
 
 <!-- badges: start -->
-[![Codecov test coverage](https://codecov.io/gh/OskarGauffin/pvda/branch/main/graph/badge.svg)](https://app.codecov.io/gh/OskarGauffin/pvda?branch=main)
-
+[![CRAN status](https://www.r-pkg.org/badges/version/pvda)](https://CRAN.R-project.org/package=pvda)
 [![R-CMD-check](https://github.com/OskarGauffin/pvda/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/OskarGauffin/pvda/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/OskarGauffin/pvda/branch/main/graph/badge.svg)](https://app.codecov.io/gh/OskarGauffin/pvda?branch=main)
 <!-- badges: end -->
 
 # Installation
@@ -28,14 +28,15 @@ da()
 summary(da1)
 ```
 
-The output object contains summary counts, disproportionality point and interval estimates. To extract the results in a data frame, access "da_df" as a list object:
+![Screenshot of the summary print output.](vignettes/summary_console_printout.png)
+
+To extract the results in a data frame, access "da_df" as a list object:
 
 ``` r
-
 da_results <- 
 da1$da_df
 ```
-
+![Screenshot of the da_df data frame.](vignettes/print_console_printout.png)
 
 
 
